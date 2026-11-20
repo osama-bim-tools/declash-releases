@@ -1,7 +1,9 @@
 {
-  "version": "1.0.1",
-  "setup_url": "https://github.com/osama-bim-tools/declash-releases/releases/download/v1.0.1/Declash_Setup_1.0.1.exe",
+  "version": "1.1.0",
+  "setup_url": "https://github.com/osama-bim-tools/declash-releases/releases/download/V1.1.0/Declash_Setup_1.1.0.exe",
   "notes": [
-    "Update test release (no new tools)."
+    "New Declash tab in Navisworks: a panel shows if Claude is connected and if a new version is ready.",
+    "Works with the newer Claude Desktop settings folder.",
+    "The Setup asks you to quit Claude Desktop first, so Declash stays registered."
   ]
 }
